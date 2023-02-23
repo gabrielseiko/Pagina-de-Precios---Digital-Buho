@@ -7,7 +7,9 @@ Se desarrollo esta plantilla con tal de fortalecer las habilidades en css.
 Destacar que los botones de la pagina no tiene ninguna funcionalidad.
 
 
-![image](https://user-images.githubusercontent.com/116466802/220830869-9569e508-9d3d-4e70-b6dd-07cd34746a92.png)
+
+![image](https://user-images.githubusercontent.com/116466802/220831826-6276a148-2e9a-4b6d-925a-e9bfd136eec5.png)
+
 
 
 ### Funcionamineto
